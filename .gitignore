@@ -1,0 +1,9 @@
+/node_modules/            # Ignore root-level node_modules
+/Client/node_modules/   # Ignore frontend dependencies
+/Server/node_modules/    # Ignore backend dependencies
+/dist/                    # Build folders
+/frontend/dist/
+/backend/dist/
+.env
+/Client/.env
+/Server/.env
