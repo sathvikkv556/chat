@@ -21,8 +21,11 @@ import pic3 from './pic3.png'
 import pic4 from './pic4.png'
 import img1 from './img1.jpg'
 import img2 from './img2.jpg'
-
+import logo1 from './logo2.png'
+import logo3 from './logo3.png'
 const assets = {
+    logo3,
+    logo1,
     avatar_icon,
     gallery_icon,
     help_icon,
