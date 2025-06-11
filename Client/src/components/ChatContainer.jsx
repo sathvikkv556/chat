@@ -171,7 +171,7 @@ const ChatContainer = () => {
             onChange={handleSendImage}
             type="file"
             id="image"
-            accept="image/png,image/jpeg"
+            accept="image/png,image/jpeg multiple"
             hidden
           />
           <label htmlFor="image">
